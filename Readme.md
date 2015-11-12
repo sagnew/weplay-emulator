@@ -3,7 +3,7 @@
 
 ## How to install
 
-Make sure `cairo` is installed, then run:
+Make sure [cairo](http://cairographics.org/download/) is installed, then run:
 
 ```bash
 $ npm install
